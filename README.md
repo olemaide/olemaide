@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olemaide
-- 👀 I’m interested in Ed-Teach
+- 👀 I’m interested in Ed-Tech
 - 📫 Mail me over at olemai.de/kontakt
 
 <!---
