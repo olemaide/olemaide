@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @olemaide
 - 👀 I’m interested in Ed-Tech
-- 📫 Mail me over at <a href='olemai.de/kontakt' target='_blank' rel='noopener' style='color:#1073ff;'>olemai.de/kontakt</a>
+- 📫 Mail me over at <a href='olemai.de/kontakt' target='_blank' rel='noopener' style='color:#1073ff!important;'>olemai.de/kontakt</a>
