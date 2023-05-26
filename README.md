@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @olemaide
+- 👋 Hi, I’m @olemaide, working for @gegenfeld
 - 👀 I’m interested in Ed-Tech
 - 📫 Mail me over at <a href='https://olemai.de/kontakt' target='_blank' rel='noopener'>olemai.de/kontakt</a>
