@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @olemaide, working for <a href='https://gegenfeld.com/' target='_blank' rel=''> Gegenfeld/</a>
+- 👋 Hi, I’m @olemaide, working for <a href='https://gegenfeld.com/' target='_blank' rel=''> Gegenfeld</a>
 - 👀 I’m interested in Ed-Tech
-- 📫 Mail me over at <a href='https://olemai.de/kontakt' target='_blank' rel=''>olemai.de/</a>
+- 📫 Mail me over at <a href='https://olemai.de/kontakt' target='_blank' rel=''>olemai.de</a>
