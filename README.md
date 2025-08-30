@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @olemaide, working for <a href='https://gegenfeld.com/' target='_blank' rel=''> Gegenfeld</a>
-- 👀 I’m interested in Ed-Tech
-- 📫 Mail me over at <a href='https://olemai.de/' target='_blank' rel=''>olemai.de</a>
+> Hi, I’m Ole – here's what I'm up to: <a href='https://finfeld.com/' target='_blank' rel=''>finfeld.com</a>
+> Space is interesting
